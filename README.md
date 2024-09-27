@@ -1,5 +1,3 @@
-Aqui está um exemplo de um README para o seu projeto:
-
 ---
 
 # Script de Detecção de Mudanças no Bashrc/Zshrc
@@ -20,8 +18,8 @@ Este projeto contém scripts simples que detectam mudanças no arquivo de config
 Primeiro, clone este repositório em seu ambiente local:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <PASTA_DO_PROJETO>
+git clone (https://github.com/bl4ckw1d0w/rc-file-tracker.git)
+cd rc-file-tracker
 ```
 
 ### 2. Escolha o Script
