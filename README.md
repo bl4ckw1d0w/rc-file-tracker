@@ -18,7 +18,7 @@ Este projeto contém scripts simples que detectam mudanças no arquivo de config
 Primeiro, clone este repositório em seu ambiente local:
 
 ```bash
-git clone (https://github.com/bl4ckw1d0w/rc-file-tracker.git)
+git clone https://github.com/bl4ckw1d0w/rc-file-tracker.git
 cd rc-file-tracker
 ```
 
